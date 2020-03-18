@@ -1,0 +1,10 @@
+*.mdb
+*.ldb
+*.sln
+*.config
+*.gch
+*.out
+.vscode/
+Debug/
+Release/
+obj/
